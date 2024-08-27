@@ -16,6 +16,12 @@ Ported a raycaster onto an Arduino so it can be useable with buttons.
 <img src="setup2.png" alt="" />
 </p>
 
+
+https://github.com/user-attachments/assets/c71b0a10-495b-44a8-a3df-c3893e2f6128
+
+
+
+
 ### Arduino UNO Pin Connections
 
 | ST7735 Pin | Arduino UNO Pin        |
